@@ -90,6 +90,7 @@ footer {
   padding: 0 2em;
 }
 p {
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 1vw;
   margin: 0;
   padding-bottom: 0.5rem;
