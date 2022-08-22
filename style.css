@@ -90,11 +90,10 @@ footer {
   padding: 0 2em;
 }
 p {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Josefin Sans", sans-serif;
   font-size: 1vw;
   margin: 0;
   padding-bottom: 0.5rem;
-  letter-spacing: 0.5rem;
   color: #ffffff;
   transition: all 0.3s ease;
   z-index: 3;
